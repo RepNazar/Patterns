@@ -1,7 +1,5 @@
 package ua.Nazar.Rep.prototype.shapes;
 
-import ua.Nazar.Rep.prototype.Shape;
-
 public class Circle extends Shape {
 
     public Circle(){

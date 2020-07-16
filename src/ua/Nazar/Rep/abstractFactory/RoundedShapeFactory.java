@@ -2,6 +2,7 @@ package ua.Nazar.Rep.abstractFactory;
 
 import ua.Nazar.Rep.abstractFactory.shapes.RoundedRectangle;
 import ua.Nazar.Rep.abstractFactory.shapes.RoundedSquare;
+import ua.Nazar.Rep.abstractFactory.shapes.Shape;
 
 public class RoundedShapeFactory extends AbstractFactory {
     @Override

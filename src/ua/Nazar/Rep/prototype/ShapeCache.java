@@ -2,6 +2,7 @@ package ua.Nazar.Rep.prototype;
 
 import ua.Nazar.Rep.prototype.shapes.Circle;
 import ua.Nazar.Rep.prototype.shapes.Rectangle;
+import ua.Nazar.Rep.prototype.shapes.Shape;
 import ua.Nazar.Rep.prototype.shapes.Square;
 
 import java.util.HashMap;

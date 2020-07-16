@@ -1,10 +1,10 @@
-package ua.Nazar.Rep.prototype;
+package ua.Nazar.Rep.prototype.shapes;
 
 public abstract class Shape implements Cloneable{
     private String id;
     protected String type;
 
-    protected abstract void draw();
+    public abstract void draw();
 
     public String getId() {
         return id;

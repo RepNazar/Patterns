@@ -1,4 +1,4 @@
-package ua.Nazar.Rep.factory;
+package ua.Nazar.Rep.abstractFactory.shapes;
 
 public interface Shape {
     void draw();

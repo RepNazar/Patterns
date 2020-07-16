@@ -1,6 +1,7 @@
 package ua.Nazar.Rep.abstractFactory;
 
 import ua.Nazar.Rep.abstractFactory.shapes.Rectangle;
+import ua.Nazar.Rep.abstractFactory.shapes.Shape;
 import ua.Nazar.Rep.abstractFactory.shapes.Square;
 
 public class ShapeFactory extends AbstractFactory {

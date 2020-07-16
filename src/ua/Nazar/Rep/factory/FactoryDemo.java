@@ -1,5 +1,7 @@
 package ua.Nazar.Rep.factory;
 
+import ua.Nazar.Rep.factory.shapes.Shape;
+
 public class FactoryDemo {
     public static void factoryDemo() {
         ShapeFactory shapeFactory = new ShapeFactory();

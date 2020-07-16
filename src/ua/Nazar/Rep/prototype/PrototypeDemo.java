@@ -1,5 +1,7 @@
 package ua.Nazar.Rep.prototype;
 
+import ua.Nazar.Rep.prototype.shapes.Shape;
+
 public class PrototypeDemo {
     public static void prototypeDemo() {
         ShapeCache.loadCache();

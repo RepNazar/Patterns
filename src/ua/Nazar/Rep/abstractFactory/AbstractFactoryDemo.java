@@ -1,5 +1,7 @@
 package ua.Nazar.Rep.abstractFactory;
 
+import ua.Nazar.Rep.abstractFactory.shapes.Shape;
+
 public class AbstractFactoryDemo {
     public static void abstractFactoryDemo(){
         AbstractFactory shapeFactory = FactoryProducer.getFactory(false);

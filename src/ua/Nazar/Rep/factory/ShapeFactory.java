@@ -2,6 +2,7 @@ package ua.Nazar.Rep.factory;
 
 import ua.Nazar.Rep.factory.shapes.Circle;
 import ua.Nazar.Rep.factory.shapes.Rectangle;
+import ua.Nazar.Rep.factory.shapes.Shape;
 import ua.Nazar.Rep.factory.shapes.Square;
 
 public class ShapeFactory {
